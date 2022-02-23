@@ -1,2 +1,2 @@
-# Website
-In this project I created a Website using HTML, CSS and JavaScript.  Added a smooth scroll using JavaScript. 
+# Frontend Webpage
+In this project I created a frontend Webpage using HTML, CSS and added a smooth scroll using JavaScript. 
